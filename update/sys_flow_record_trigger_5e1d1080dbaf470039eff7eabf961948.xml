@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_flow_record_trigger">
+    <sys_flow_record_trigger action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_snc_workpl_hs1_workplace_hs_case">^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <name/>
+        <on_delete>false</on_delete>
+        <on_insert>true</on_insert>
+        <on_update>true</on_update>
+        <sys_class_name>sys_flow_record_trigger</sys_class_name>
+        <sys_created_by>dragan</sys_created_by>
+        <sys_created_on>2018-01-04 04:00:44</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5e1d1080dbaf470039eff7eabf961948</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Workplace Health and Safety" source="x_snc_workpl_hs1">deedd73fdbdb470039eff7eabf96196e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Workplace Health and Safety">deedd73fdbdb470039eff7eabf96196e</sys_scope>
+        <sys_update_name>sys_flow_record_trigger_5e1d1080dbaf470039eff7eabf961948</sys_update_name>
+        <sys_updated_by>dragan</sys_updated_by>
+        <sys_updated_on>2018-01-04 04:00:44</sys_updated_on>
+        <table>x_snc_workpl_hs1_workplace_hs_case</table>
+    </sys_flow_record_trigger>
+</record_update>

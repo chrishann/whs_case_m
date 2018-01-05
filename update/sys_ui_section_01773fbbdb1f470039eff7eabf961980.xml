@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Severity Assessment" section_id="01773fbbdb1f470039eff7eabf961980" sys_domain="global" table="x_snc_workpl_hs1_workplace_hs_case" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>impact_on_person</element>
+            <position>0</position>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-04 01:24:41</sys_created_on>
+            <sys_id>ac69fffbdb1f470039eff7eabf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Severity Assessment" display_value="Severity Assessment" name="x_snc_workpl_hs1_workplace_hs_case" sys_domain="global" view="Default view">01773fbbdb1f470039eff7eabf961980</sys_ui_section>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-04 01:24:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>treatment</element>
+            <position>1</position>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-04 01:24:41</sys_created_on>
+            <sys_id>2069fffbdb1f470039eff7eabf96197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Severity Assessment" display_value="Severity Assessment" name="x_snc_workpl_hs1_workplace_hs_case" sys_domain="global" view="Default view">01773fbbdb1f470039eff7eabf961980</sys_ui_section>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-04 01:24:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>severity_rating</element>
+            <position>2</position>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-04 01:24:41</sys_created_on>
+            <sys_id>a069fffbdb1f470039eff7eabf96197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Severity Assessment" display_value="Severity Assessment" name="x_snc_workpl_hs1_workplace_hs_case" sys_domain="global" view="Default view">01773fbbdb1f470039eff7eabf961980</sys_ui_section>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-04 01:24:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Severity Assessment</caption>
+            <header>false</header>
+            <name>x_snc_workpl_hs1_workplace_hs_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>dragan</sys_created_by>
+            <sys_created_on>2018-01-04 01:16:15</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>01773fbbdb1f470039eff7eabf961980</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Severity Assessment</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Workplace Health and Safety" source="x_snc_workpl_hs1">deedd73fdbdb470039eff7eabf96196e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Workplace Health and Safety">deedd73fdbdb470039eff7eabf96196e</sys_scope>
+            <sys_update_name>sys_ui_section_01773fbbdb1f470039eff7eabf961980</sys_update_name>
+            <sys_updated_by>dragan</sys_updated_by>
+            <sys_updated_on>2018-01-04 01:16:15</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

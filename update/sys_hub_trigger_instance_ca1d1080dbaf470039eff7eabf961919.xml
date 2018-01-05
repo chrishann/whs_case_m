@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_trigger_instance">
+    <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
+        <display_text/>
+        <flow display_value="WHS Case Management">0e1d1080dbaf470039eff7eabf961917</flow>
+        <name>Created or Updated</name>
+        <remote_sys_id>5e1d1080dbaf470039eff7eabf961948</remote_sys_id>
+        <sys_class_name>sys_hub_trigger_instance</sys_class_name>
+        <sys_created_by>dragan</sys_created_by>
+        <sys_created_on>2018-01-04 04:00:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ca1d1080dbaf470039eff7eabf961919</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>record_create_or_update</sys_name>
+        <sys_package display_value="Workplace Health and Safety" source="x_snc_workpl_hs1">deedd73fdbdb470039eff7eabf96196e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Workplace Health and Safety">deedd73fdbdb470039eff7eabf96196e</sys_scope>
+        <sys_update_name>sys_hub_trigger_instance_ca1d1080dbaf470039eff7eabf961919</sys_update_name>
+        <sys_updated_by>dragan</sys_updated_by>
+        <sys_updated_on>2018-01-04 04:00:44</sys_updated_on>
+        <trigger_definition display_value="Created or Updated">a45d9180c32222002841b63b12d3aea7</trigger_definition>
+        <trigger_inputs/>
+        <trigger_outputs/>
+        <trigger_type>record_create_or_update</trigger_type>
+    </sys_hub_trigger_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=ca1d1080dbaf470039eff7eabf961919"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>ca1d1080dbaf470039eff7eabf961919</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>dragan</sys_created_by>
+        <sys_created_on>2018-01-04 04:00:43</sys_created_on>
+        <sys_id>8e1d1080dbaf470039eff7eabf96191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dragan</sys_updated_by>
+        <sys_updated_on>2018-01-04 04:00:43</sys_updated_on>
+        <value>x_snc_workpl_hs1_workplace_hs_case</value>
+        <variable display_value="">cf1e1980c32222002841b63b12d3aea0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>ca1d1080dbaf470039eff7eabf961919</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>dragan</sys_created_by>
+        <sys_created_on>2018-01-04 04:00:43</sys_created_on>
+        <sys_id>ca1d1080dbaf470039eff7eabf96191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dragan</sys_updated_by>
+        <sys_updated_on>2018-01-04 04:00:43</sys_updated_on>
+        <value>^EQ</value>
+        <variable display_value="">707dd180c32222002841b63b12d3aecb</variable>
+    </sys_variable_value>
+</record_update>

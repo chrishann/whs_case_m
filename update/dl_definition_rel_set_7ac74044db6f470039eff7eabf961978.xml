@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="dl_definition_rel_set">
+    <dl_definition_rel_set action="INSERT_OR_UPDATE">
+        <always_replace>false</always_replace>
+        <dl_definition display_value="Severity Assessment">97774c04db6f470039eff7eabf96192f</dl_definition>
+        <matcher_table>x_snc_workpl_hs1_severity_lookup</matcher_table>
+        <matcher_table_field>severity_rating</matcher_table_field>
+        <source_table>x_snc_workpl_hs1_workplace_hs_case</source_table>
+        <source_table_field>severity_rating</source_table_field>
+        <sys_class_name>dl_definition_rel_set</sys_class_name>
+        <sys_created_by>dragan</sys_created_by>
+        <sys_created_on>2018-01-04 02:27:47</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7ac74044db6f470039eff7eabf961978</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>severity_rating</sys_name>
+        <sys_package display_value="Workplace Health and Safety" source="x_snc_workpl_hs1">deedd73fdbdb470039eff7eabf96196e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Workplace Health and Safety">deedd73fdbdb470039eff7eabf96196e</sys_scope>
+        <sys_update_name>dl_definition_rel_set_7ac74044db6f470039eff7eabf961978</sys_update_name>
+        <sys_updated_by>dragan</sys_updated_by>
+        <sys_updated_on>2018-01-04 02:27:47</sys_updated_on>
+    </dl_definition_rel_set>
+</record_update>

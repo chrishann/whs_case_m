@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="dl_matcher" label="Severity Lookup" max_length="40" name="x_snc_workpl_hs1_severity_lookup" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" choice_field="impact_on_person" choice_table="x_snc_workpl_hs1_workplace_hs_case" label="Impact on person" max_length="40" name="impact_on_person" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" choice_field="severity_rating" choice_table="x_snc_workpl_hs1_workplace_hs_case" label="Severity rating" max_length="40" name="severity_rating" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" choice_field="treatment" choice_table="x_snc_workpl_hs1_workplace_hs_case" label="Treatment" max_length="40" name="treatment" type="string">
+            <choice/>
+        </element>
+    </element>
+</database>

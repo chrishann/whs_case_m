@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Case Base Table" max_length="40" name="x_snc_workpl_hs1_case_base_table" type="collection">
+        <element choice="1" label="Case classification" max_length="40" name="case_classification" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>
