@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="x_snc_workpl_hs1_case_base_table" label="WHS Investigation" max_length="40" name="x_snc_workpl_hs1_whs_investigation" type="collection"/>
+    <element audit="true" extends="x_snc_workpl_hs1_case_base_table" label="WHS Investigation" max_length="40" name="x_snc_workpl_hs1_whs_investigation" sizeclass="6" type="collection"/>
 </database>

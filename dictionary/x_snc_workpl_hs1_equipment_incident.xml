@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="x_snc_workpl_hs1_case_base_table" label="Equipment Incident" max_length="40" name="x_snc_workpl_hs1_equipment_incident" type="collection"/>
+    <element extends="x_snc_workpl_hs1_case_base_table" label="Equipment Incident" max_length="40" name="x_snc_workpl_hs1_equipment_incident" sizeclass="8" type="collection"/>
 </database>

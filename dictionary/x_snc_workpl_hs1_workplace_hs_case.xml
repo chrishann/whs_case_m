@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="x_snc_workpl_hs1_case_base_table" label="Workplace HS Case" max_length="40" name="x_snc_workpl_hs1_workplace_hs_case" type="collection">
+    <element audit="true" extends="x_snc_workpl_hs1_case_base_table" label="Workplace HS Case" max_length="40" name="x_snc_workpl_hs1_workplace_hs_case" sizeclass="6" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Case Stages" max_length="40" name="case_stages" type="workflow">
             <choice>
                 <element label="New" sequence="0" value="New"/>
@@ -10,7 +10,6 @@
                 <element label="Finalized" sequence="4" value="Finalized"/>
             </choice>
         </element>
-        <element label="Damaged Item" max_length="32" name="damaged_item" reference="cmdb_ci" type="reference"/>
         <element label="Equipment Damaged" max_length="40" name="equipment_damaged" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Impact on person" max_length="40" name="impact_on_person" type="string">
             <choice>
