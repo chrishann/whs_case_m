@@ -10,7 +10,6 @@
                 <element label="Finalized" sequence="4" value="Finalized"/>
             </choice>
         </element>
-        <element label="Damaged Item" max_length="32" name="damaged_item" reference="cmdb_ci" type="reference"/>
         <element label="Equipment Damaged" max_length="40" name="equipment_damaged" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Impact on person" max_length="40" name="impact_on_person" type="string">
             <choice>
