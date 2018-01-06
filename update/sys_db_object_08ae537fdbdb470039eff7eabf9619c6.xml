@@ -17,7 +17,7 @@
         <number_ref display_value="CSE">e0ee177fdbdb470039eff7eabf961974</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">d1f74b634f122200d9e89d9f0310c781</super_class>
+        <super_class display_value="Task" name="task">3c0423414f32020007d5f6a21310c7c5</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>

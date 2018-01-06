@@ -2,33 +2,33 @@
 <record_update table="sys_wizard_answer">
     <sys_wizard_answer action="INSERT_OR_UPDATE">
         <active>true</active>
-        <answer>Severity Lookup</answer>
+        <answer>Case Base Table</answer>
         <button_label/>
         <dependent_value/>
         <element/>
-        <name>Severity Lookup</name>
+        <name>Case Base Table</name>
         <next_question/>
         <order>100</order>
         <payload_name/>
-        <question display_value="Application File" name="Application File">22dc67894f32020007d5f6a21310c703</question>
+        <question display_value="Task" name="Task">f00423414f32020007d5f6a21310c7c6</question>
         <roles/>
         <script/>
         <sys_class_name>sys_wizard_answer</sys_class_name>
-        <sys_created_by>dragan</sys_created_by>
-        <sys_created_on>2018-01-04 02:13:48</sys_created_on>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-01-06 11:21:22</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>84a48880db6f470039eff7eabf9619b6</sys_id>
+        <sys_id>6425103c4f2b43000e460ccf0310c78a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Severity Lookup</sys_name>
+        <sys_name>Case Base Table</sys_name>
         <sys_package display_value="Workplace Health and Safety" source="x_snc_workpl_hs1">deedd73fdbdb470039eff7eabf96196e</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Workplace Health and Safety">deedd73fdbdb470039eff7eabf96196e</sys_scope>
-        <sys_update_name>sys_wizard_answer_84a48880db6f470039eff7eabf9619b6</sys_update_name>
-        <sys_updated_by>dragan</sys_updated_by>
-        <sys_updated_on>2018-01-04 02:13:48</sys_updated_on>
+        <sys_update_name>sys_wizard_answer_6425103c4f2b43000e460ccf0310c78a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-01-06 11:21:22</sys_updated_on>
         <table/>
-        <target_url>x_snc_workpl_hs1_severity_lookup.do</target_url>
+        <target_url>x_snc_workpl_hs1_case_base_table.do</target_url>
         <type>1</type>
     </sys_wizard_answer>
 </record_update>

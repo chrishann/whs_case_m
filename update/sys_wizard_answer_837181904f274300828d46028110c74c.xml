@@ -10,7 +10,7 @@
         <next_question/>
         <order>100</order>
         <payload_name/>
-        <question display_value="Task" name="Task">99f74b634f122200d9e89d9f0310c781</question>
+        <question display_value="Task" name="Task">f00423414f32020007d5f6a21310c7c6</question>
         <roles/>
         <script/>
         <sys_class_name>sys_wizard_answer</sys_class_name>
@@ -20,7 +20,7 @@
         <sys_id>837181904f274300828d46028110c74c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Case Base Table</sys_name>
-        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_package display_value="Workplace Health and Safety" source="x_snc_workpl_hs1">deedd73fdbdb470039eff7eabf96196e</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Workplace Health and Safety">deedd73fdbdb470039eff7eabf96196e</sys_scope>

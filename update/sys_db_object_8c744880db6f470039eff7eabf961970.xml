@@ -17,7 +17,7 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Data Lookup Matcher Rules" name="dl_matcher">fc8cc76b4f122200d9e89d9f0310c723</super_class>
+        <super_class display_value="Data Lookup Matcher Rules" name="dl_matcher">9a77af054f32020007d5f6a21310c725</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
